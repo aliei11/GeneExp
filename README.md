@@ -2,7 +2,8 @@
 Gene Expression data derived from different Infectous Diseases
 
 #The aim will be to re-analyse the data and compare the results with those obtaind in the paper and/or complement the analysis with novel insights.
-
+# doi: 10.1016/j.cell.2020.04.026
+#Imbalanced Host Response to SARS-CoV-2 Drives Development of COVID-19
 ###Project description###
 
 #At the beginning, we read the tables required for our project. 
